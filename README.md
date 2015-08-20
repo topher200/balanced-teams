@@ -20,6 +20,12 @@ weights. Next, we generate a new random set of teams by randomly moving a random
 set of players to different teams. If the new seed is better scoring than the
 first, we continue with that new seed.
 
+## Requirements
+
+Tested with Python 2.7
+
+Requires numpy (for speed)
+
 ## How to run
 
  - Replace RUNNERS with the names, times, and genders of your team
