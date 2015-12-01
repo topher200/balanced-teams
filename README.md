@@ -6,9 +6,9 @@ Genetic algorithm to create balanced relay teams based on mile times
 
 Given the miles times of a team of people, we need to create N relay teams. Each
 relay team should be equally balanced in times, so that they should all be
-expected to finish around the same time. In addtion, we want to balanced based
-on number of players on each time, and the number of players of each gender on
-each team.
+expected to finish around the same time. In addtion, we want to balance based on
+number of players on each team and the number of players of each gender on each
+team.
 
 ## Algorithm
 
